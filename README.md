@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @shakotgabriel
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @shakotgabriel  
+- 👀 I’m interested in full-stack web development, building scalable software solutions, and using tech to solve real-world problems in Africa.  
+- 🌱 I’m currently learning microservices architecture, cloud deployment (Docker, CI/CD), and exploring TypeScript & Next.js.  
+- 💞️ I’m looking to collaborate on impactful open-source projects, fintech platforms, and digital tools for education and business.  
+- 📫 How to reach me: chakuothbelgabriel@gmail.com | [LinkedIn](https://www.linkedin.com/in/shakotgabriel)
 
 <!---
 shakotgabriel/shakotgabriel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
